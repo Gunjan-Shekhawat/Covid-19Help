@@ -22,7 +22,7 @@ Deployed on Heroku.
 
 ## Made By
 
- FSociety (@steverogers07 @Gunjan-Shekhawat and me)
+ FSociety (@steverogers07 @Gunjan-Shekhawat and @shivamgupta1999)
 
 COVID-19
 
